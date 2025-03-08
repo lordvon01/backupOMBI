@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Information
+# Script Name: Ombi Backup Script
+# Description: This script creates backups of the Ombi database and configuration files.
+# Author: [Your Name]
+# Date: March 8, 2025
+# Version: 1.0
+
 # Configuration
 OMBI_PATH="/etc/Ombi"  # Path where Ombi is installed
 BACKUP_PATH="/mnt/Public/OMBI\ backups"  # Path where backups will be stored
